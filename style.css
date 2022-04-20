@@ -1,0 +1,24 @@
+/* Add your styles here */
+
+
+
+#cabe{
+    background-color: rgb(255, 255, 255);
+}
+pre{
+    color: black;
+}
+pre.cal{
+    color: blue;
+}
+#prom{
+    background-color: rgb(255, 255, 255);
+}
+img.imagenes{
+    width: 500px;
+}
+
+  
+tr{
+    cursor: pointer;
+  }
